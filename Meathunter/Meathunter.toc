@@ -1,0 +1,9 @@
+-- File: Meathunter.toc
+## Place this in a directory named "Meathunter" under your AddOns folder
+Interface: 11200
+Title: Meathunter
+Version: 1.0
+Author: Theodan
+
+## Auto-load the Lua file
+Meathunter.lua
